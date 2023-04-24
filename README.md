@@ -1,6 +1,11 @@
 ### Hi there 👋
-в данный момент я не работаю.<br>учусь программированию на пайтоне.<br>в будущем хочу стать программистом.<br>у меня высшее военное образование.<br>начальник продовольственной службы manager.<br>я бывший подполковник.<br>офицер запаса, пенсионер.
-
+I'm not working at the moment.
+I'm learning Python programming.
+I want to become a programmer in the future.
+I have a higher military education.
+head of the food service manager.
+I am a former lieutenant colonel.
+reserve officer, retired.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Зограб Абраамян) 
